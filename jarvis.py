@@ -14,7 +14,7 @@ def speak(audio):
     engine.runAndWait()
 
 def atentions() :
-    speak("I am jarvis! code verision 0.0.1, enginering you sir! ululazmi")
+    speak("I am jarvis! code verision 0.0.1, enginering you sir! Black Mamba")
 
 def wishMe():
     hour = int(datetime.datetime.now().hour)
